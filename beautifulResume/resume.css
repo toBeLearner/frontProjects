@@ -1,6 +1,7 @@
 
 body {
-  background-color: #00b2b3;
+  background-image:url('./img/background.jpg');
+  background-repeat:repeat-y;
 }
 div.img {
     margin: 5px;
@@ -9,14 +10,19 @@ div.img {
     width: 180px;
 }
 
-h1 {
+h2 {
     font-size: 32px;
+	color: #003399
 }
 p {
 	font-size: 16px;
+	font-family:"Times New Roman",Georgia,Serif;
     color:  #ff751a;
+}
+p.italic-thick {
+	font-style:italic
 }
 span {
 	font-size: 24px;
-	color: #000000
+	color: #003399
 }
