@@ -1,0 +1,10 @@
+
+body {
+  background-color: #a3d5d3;
+}
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: right;
+    width: 180px;
+}
