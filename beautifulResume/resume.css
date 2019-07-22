@@ -1,0 +1,22 @@
+
+body {
+  background-color: #00b2b3;
+}
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: right;
+    width: 180px;
+}
+
+h1 {
+    font-size: 32px;
+}
+p {
+	font-size: 16px;
+    color:  #ff751a;
+}
+span {
+	font-size: 24px;
+	color: #000000
+}
