@@ -1,0 +1,41 @@
+
+body {
+  background-image:url('./img/background.jpg');
+  background-size:100% 100%;
+  background-attachment:fixed;
+  background-position:center; 
+}
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: right;
+    width: 180px;
+}
+div.message {
+	width: 30%;
+	border-style:dotted  ;
+    border-color: #de4cdaa1;
+}
+ul {
+	list-style-type : square
+}
+h2 {
+    font-size: 32px;
+	color: #003399
+}
+p {
+	font-size: 16px;
+	font-family:"Times New Roman",Georgia,Serif;
+    color:  #ff751a;
+}
+p.italic-thick {
+	font-style:italic
+}
+span {
+	font-size: 24px;
+	color: #003399
+}
+a:link {background-color:#B2FF99;}    /* 未被访问的链接 */
+a:visited {background-color:#FFFF85;} /* 已被访问的链接 */
+a:hover {background-color:#FF704D;}   /* 鼠标指针移动到链接上 */
+a:active {background-color:#FF704D;}  /* 正在被点击的链接 */
