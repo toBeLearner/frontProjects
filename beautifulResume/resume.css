@@ -39,3 +39,4 @@ a:link {background-color:#B2FF99;}    /* 未被访问的链接 */
 a:visited {background-color:#FFFF85;} /* 已被访问的链接 */
 a:hover {background-color:#FF704D;}   /* 鼠标指针移动到链接上 */
 a:active {background-color:#FF704D;}  /* 正在被点击的链接 */
+
